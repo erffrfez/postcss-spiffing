@@ -4,7 +4,7 @@ postcss-spiffing
 To wear a heart so white.<br>
 \- William Shakespeare, *Macbeth*
 
-Shakespeare wouldn't have settled for using "color" rather than "colour" in CSS, and neither should you! He would've recognised that in doing so, he would've comprised the whole integrity of his writing.
+Shakespeare wouldn't have settled for using "color" rather than "colour" in CSS, and neither should you! He would've recognised that in doing so, he would've compromised the whole integrity of his writing.
 
 Write CSS using proper British English anywhere with `postcss-spiffing`.
 
